@@ -4,3 +4,6 @@ shout(string); {
 }
 
 Function 
+whisper(string); {
+  
+}
