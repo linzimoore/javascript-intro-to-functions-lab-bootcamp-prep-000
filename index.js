@@ -5,5 +5,5 @@ shout(string); {
 
 Function 
 whisper(string); {
-  
+  return string.toLowerCase();
 }
